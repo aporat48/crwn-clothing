@@ -8,3 +8,6 @@ a {
   font-weight: bold;
   font-size: 24px;
 }
+* {
+  box-sizing: border-box;
+}
